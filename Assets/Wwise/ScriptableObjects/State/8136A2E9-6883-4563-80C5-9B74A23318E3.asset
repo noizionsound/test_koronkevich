@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e33a2e7e179cd43f4b36e52cfd50f3c3, type: 3}
+  m_Name: 8136A2E9-6883-4563-80C5-9B74A23318E3
+  m_EditorClassIdentifier: 
+  objectName: four
+  id: 2863728729
+  guid: 8136A2E9-6883-4563-80C5-9B74A23318E3
+  WwiseStateGroupReference: {fileID: 11400000, guid: 1cb2adc3234a14f6790bc4d4f140cd63,
+    type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4ba17ceb757849d69d30192a7fc32d2, type: 3}
+  m_Name: DC66C310-71FB-44C9-A926-756C9C3AC160
+  m_EditorClassIdentifier: 
+  objectName: stair
+  id: 1164367372
+  guid: DC66C310-71FB-44C9-A926-756C9C3AC160
+  WwiseSwitchGroupReference: {fileID: 11400000, guid: 82b064cc55f0c4766810e17f9f23e2c5,
+    type: 2}

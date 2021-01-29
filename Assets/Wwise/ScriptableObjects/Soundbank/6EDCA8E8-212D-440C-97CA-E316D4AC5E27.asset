@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da2da25e2fd6f4c28978e989c8d0099f, type: 3}
+  m_Name: 6EDCA8E8-212D-440C-97CA-E316D4AC5E27
+  m_EditorClassIdentifier: 
+  objectName: spatial_sounds
+  id: 3287411158
+  guid: 6EDCA8E8-212D-440C-97CA-E316D4AC5E27
